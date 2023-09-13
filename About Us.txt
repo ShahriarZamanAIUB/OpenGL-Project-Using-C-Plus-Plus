@@ -1,0 +1,23 @@
+Racing Car Game
+
+C++ OpenGL Project by Group A (Computer Graphics, Section J)
+
+Download link : 
+
+https://drive.google.com/drive/u/0/folders/1qUMSWecySTS7jfvA4sAHK4PyFKJsqpqG
+
+
+Group Members :
+
+1) Md. Rifat Rayhan (14-27736-3)
+
+2) Muhammad Shahriar Zaman (20-41840-1)
+
+
+Contact :
+
+shahriarzaman44@gmail.com,
+
+jonalex628@gmail.com,
+
+01785655952
